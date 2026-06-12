@@ -1,0 +1,12 @@
+[
+  {"year": 2022, "host": "卡塔尔", "champion": "阿根廷", "runnerUp": "法国", "third": "克罗地亚", "fourth": "摩洛哥", "goldenBoot": "姆巴佩 (8球)", "goldenBall": "梅西"},
+  {"year": 2018, "host": "俄罗斯", "champion": "法国", "runnerUp": "克罗地亚", "third": "比利时", "fourth": "英格兰", "goldenBoot": "凯恩 (6球)", "goldenBall": "莫德里奇"},
+  {"year": 2014, "host": "巴西", "champion": "德国", "runnerUp": "阿根廷", "third": "荷兰", "fourth": "巴西", "goldenBoot": "J罗 (6球)", "goldenBall": "梅西"},
+  {"year": 2010, "host": "南非", "champion": "西班牙", "runnerUp": "荷兰", "third": "德国", "fourth": "乌拉圭", "goldenBoot": "穆勒 (5球)", "goldenBall": "弗兰"},
+  {"year": 2006, "host": "德国", "champion": "意大利", "runnerUp": "法国", "third": "德国", "fourth": "葡萄牙", "goldenBoot": "克洛泽 (5球)", "goldenBall": "齐达内"},
+  {"year": 2002, "host": "韩国/日本", "champion": "巴西", "runnerUp": "德国", "third": "土耳其", "fourth": "韩国", "goldenBoot": "罗纳尔多 (8球)", "goldenBall": "卡恩"},
+  {"year": 1998, "host": "法国", "champion": "法国", "runnerUp": "巴西", "third": "克罗地亚", "fourth": "荷兰", "goldenBoot": "苏克 (6球)", "goldenBall": "罗纳尔多"},
+  {"year": 1994, "host": "美国", "champion": "巴西", "runnerUp": "意大利", "third": "瑞典", "fourth": "保加利亚", "goldenBoot": "斯托伊奇科夫 (6球)", "goldenBall": "罗马里奥"},
+  {"year": 1990, "host": "意大利", "champion": "德国", "runnerUp": "阿根廷", "third": "意大利", "fourth": "英格兰", "goldenBoot": "斯基拉奇 (6球)", "goldenBall": "斯基拉奇"},
+  {"year": 1986, "host": "墨西哥", "champion": "阿根廷", "runnerUp": "德国", "third": "法国", "fourth": "比利时", "goldenBoot": "莱因克尔 (6球)", "goldenBall": "马拉多纳"}
+]

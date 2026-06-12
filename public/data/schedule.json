@@ -1,0 +1,63 @@
+{
+  "groups": {
+    "A": ["brazil", "france", "mexico", "canada"],
+    "B": ["argentina", "england", "senegal", "japan"],
+    "C": ["germany", "spain", "morocco", "australia"],
+    "D": ["portugal", "netherlands", "usa", "ecuador"],
+    "E": ["belgium", "italy", "south_korea", "ghana"],
+    "F": ["colombia", "uruguay", "croatia", "iran"],
+    "G": ["switzerland", "denmark", "paraguay", "cameroon"],
+    "H": ["poland", "serbia", "chile", "saudi_arabia"],
+    "I": ["ukraine", "turkey", "peru", "new_zealand"],
+    "J": ["czechia", "wales", "tunisia", "costa_rica"],
+    "K": ["austria", "hungary", "egypt", "china"],
+    "L": ["scotland", "ireland", "nigeria", "jamaica"]
+  },
+  "matches": [
+    {"id": "g001", "stage": "group", "group": "A", "homeTeam": "brazil", "awayTeam": "mexico", "date": "2026-06-11", "venue": "墨西哥城", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g002", "stage": "group", "group": "A", "homeTeam": "france", "awayTeam": "canada", "date": "2026-06-11", "venue": "多伦多", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g003", "stage": "group", "group": "A", "homeTeam": "brazil", "awayTeam": "canada", "date": "2026-06-17", "venue": "西雅图", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g004", "stage": "group", "group": "A", "homeTeam": "france", "awayTeam": "mexico", "date": "2026-06-17", "venue": "墨西哥城", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g005", "stage": "group", "group": "A", "homeTeam": "brazil", "awayTeam": "france", "date": "2026-06-23", "venue": "迈阿密", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g006", "stage": "group", "group": "A", "homeTeam": "mexico", "awayTeam": "canada", "date": "2026-06-23", "venue": "达拉斯", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    
+    {"id": "g007", "stage": "group", "group": "B", "homeTeam": "argentina", "awayTeam": "japan", "date": "2026-06-12", "venue": "洛杉矶", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g008", "stage": "group", "group": "B", "homeTeam": "england", "awayTeam": "senegal", "date": "2026-06-12", "venue": "休斯顿", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g009", "stage": "group", "group": "B", "homeTeam": "argentina", "awayTeam": "senegal", "date": "2026-06-18", "venue": "亚特兰大", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g010", "stage": "group", "group": "B", "homeTeam": "england", "awayTeam": "japan", "date": "2026-06-18", "venue": "费城", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g011", "stage": "group", "group": "B", "homeTeam": "argentina", "awayTeam": "england", "date": "2026-06-24", "venue": "迈阿密", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g012", "stage": "group", "group": "B", "homeTeam": "japan", "awayTeam": "senegal", "date": "2026-06-24", "venue": "堪萨斯城", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    
+    {"id": "g013", "stage": "group", "group": "C", "homeTeam": "germany", "awayTeam": "morocco", "date": "2026-06-13", "venue": "芝加哥", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g014", "stage": "group", "group": "C", "homeTeam": "spain", "awayTeam": "australia", "date": "2026-06-13", "venue": "旧金山", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g015", "stage": "group", "group": "C", "homeTeam": "germany", "awayTeam": "australia", "date": "2026-06-19", "venue": "达拉斯", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g016", "stage": "group", "group": "C", "homeTeam": "spain", "awayTeam": "morocco", "date": "2026-06-19", "venue": "纽约", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g017", "stage": "group", "group": "C", "homeTeam": "germany", "awayTeam": "spain", "date": "2026-06-25", "venue": "洛杉矶", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "g018", "stage": "group", "group": "C", "homeTeam": "morocco", "awayTeam": "australia", "date": "2026-06-25", "venue": "温哥华", "homeScore": null, "awayScore": null, "status": "upcoming"}
+  ],
+  "knockout": [
+    {"id": "r16_1", "stage": "r16", "homeTeam": "1A", "awayTeam": "2B", "date": "2026-06-28", "venue": "迈阿密", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_2", "stage": "r16", "homeTeam": "1C", "awayTeam": "2D", "date": "2026-06-28", "venue": "洛杉矶", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_3", "stage": "r16", "homeTeam": "1E", "awayTeam": "2F", "date": "2026-06-29", "venue": "休斯顿", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_4", "stage": "r16", "homeTeam": "1G", "awayTeam": "2H", "date": "2026-06-29", "venue": "纽约", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_5", "stage": "r16", "homeTeam": "1I", "awayTeam": "2J", "date": "2026-06-30", "venue": "达拉斯", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_6", "stage": "r16", "homeTeam": "1K", "awayTeam": "2L", "date": "2026-06-30", "venue": "西雅图", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_7", "stage": "r16", "homeTeam": "1B", "awayTeam": "2A", "date": "2026-07-01", "venue": "亚特兰大", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_8", "stage": "r16", "homeTeam": "1D", "awayTeam": "2C", "date": "2026-07-01", "venue": "费城", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_9", "stage": "r16", "homeTeam": "1F", "awayTeam": "2E", "date": "2026-07-02", "venue": "芝加哥", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_10", "stage": "r16", "homeTeam": "1H", "awayTeam": "2G", "date": "2026-07-02", "venue": "堪萨斯城", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_11", "stage": "r16", "homeTeam": "1J", "awayTeam": "2I", "date": "2026-07-03", "venue": "温哥华", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "r16_12", "stage": "r16", "homeTeam": "1L", "awayTeam": "2K", "date": "2026-07-03", "venue": "旧金山", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    
+    {"id": "qf_1", "stage": "qf", "homeTeam": "W_r16_1", "awayTeam": "W_r16_2", "date": "2026-07-06", "venue": "迈阿密", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "qf_2", "stage": "qf", "homeTeam": "W_r16_3", "awayTeam": "W_r16_4", "date": "2026-07-06", "venue": "洛杉矶", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "qf_3", "stage": "qf", "homeTeam": "W_r16_5", "awayTeam": "W_r16_6", "date": "2026-07-07", "venue": "纽约", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "qf_4", "stage": "qf", "homeTeam": "W_r16_7", "awayTeam": "W_r16_8", "date": "2026-07-07", "venue": "达拉斯", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    
+    {"id": "sf_1", "stage": "sf", "homeTeam": "W_qf_1", "awayTeam": "W_qf_2", "date": "2026-07-10", "venue": "亚特兰大", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "sf_2", "stage": "sf", "homeTeam": "W_qf_3", "awayTeam": "W_qf_4", "date": "2026-07-11", "venue": "洛杉矶", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    
+    {"id": "third", "stage": "third", "homeTeam": "L_sf_1", "awayTeam": "L_sf_2", "date": "2026-07-14", "venue": "迈阿密", "homeScore": null, "awayScore": null, "status": "upcoming"},
+    {"id": "final", "stage": "final", "homeTeam": "W_sf_1", "awayTeam": "W_sf_2", "date": "2026-07-19", "venue": "纽约", "homeScore": null, "awayScore": null, "status": "upcoming"}
+  ]
+}
