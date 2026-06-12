@@ -12,7 +12,8 @@ export function useTeams() {
     loading.value = true
     error.value = null
     try {
-      const response = await fetch('./data/teams.json')
+      const base = import.meta.env.BASE_URL || '/'
+      const response = await fetch(`${base}data/teams.json`)
       teams.value = await response.json()
     } catch (e) {
       error.value = '加载球队数据失败'
@@ -25,7 +26,8 @@ export function useTeams() {
   const loadRankings = async () => {
     if (rankings.value.length > 0) return
     try {
-      const response = await fetch('./data/rankings.json')
+      const base = import.meta.env.BASE_URL || '/'
+      const response = await fetch(`${base}data/rankings.json`)
       rankings.value = await response.json()
     } catch (e) {
       console.error('加载排名数据失败', e)
